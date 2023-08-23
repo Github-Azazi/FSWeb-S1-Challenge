@@ -294,7 +294,7 @@ Aşağıdakileri yapmak için platformaGoreCokGonderiYapanFenomen'ni kullanın:
 
 Not: Gönderi sayısı belli olmayan (NA) hesaba katmayın.
 
-Örnek: platformaGoreCokGonderiYapanFenomen(fenomenler, 'TikTok') çağrıldığında "charli damelio" dönmelidir
+Örnek: platformaGoreCokGonderiYapanFenomen(fenomenler, 'TikTok') çağrıldığında "charli damelio" dönmelidir.
 */
 
 function platformaGoreCokGonderiYapanFenomen(feno,platform){
